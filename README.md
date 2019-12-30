@@ -1,2 +1,2 @@
 # ketchup
-HTML parser library
+HTML and CSS parser lib.
